@@ -1,6 +1,7 @@
 # <img src="./src/assets/logo.png" height=50 alt="logo nlw Copa">  Ignite-Teams | Rocketseat
 
 ### Projeto criado com a proposta de desafio, utilizando das melhores formas de clean code e ferramentas que facilitam o desenvolvimento da aplicação.
+### O App consiste na crianção de turmas no intuito de formar times e cada turma tem a opção de ter dois times assim tendo mais opções para os participantes.
 
 ![Ignite Teams (Community)](https://github.com/Marcos-vvc/Ignite-Teams/assets/98921788/8d089c7b-54bf-43a4-a0b0-b788168dcfb0)
 
@@ -8,7 +9,7 @@
 
 <p align="center">
   <a href="#-tecnologias-utilizadas">Tecnologias</a> -  
-  <a href="#-resultado-aplicação-mobile">Resultado MOBILE</a> -
+  <a href="#-resultado-aplicação-mobile">Resultado</a> -
   <a href="#-como-executar">Como executar</a> - 
   <a href="#-contato">Contato</a>
 </p>
@@ -30,7 +31,7 @@
 
 </p>
 
-<a id="-resultado-aplicação-web"></a>
+<a id="-resultado-aplicação-mobile"></a>
 
 ## :iphone: Resultado da Aplicação
 
@@ -60,4 +61,8 @@ npm install
 ```bash
 npm run start
 ```
+<a id="-contato"></a>
 
+## :books: Contato:
+
+Marcos Vinicius: [Linkedin](https://www.linkedin.com/in/marcos-vinicius-080659117/).
