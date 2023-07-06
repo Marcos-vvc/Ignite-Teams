@@ -48,7 +48,7 @@ Para executar a aplicação seguir os procedimentos abaixo:
 -   Acessar primeiro o diretório com o comando:
 
 ```bash
-cd igniteteams
+cd Ignite-Teams
 ```
 -   Instalar as dependências da aplicação:
 
