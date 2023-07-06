@@ -56,13 +56,13 @@ cd Ignite-Teams
 npm install
 ```
 
--   Iniciar a aplicação web com o comando
+-   Iniciar a aplicação com o comando:
 
 ```bash
 npm run start
 ```
 <a id="-contato"></a>
 
-## :books: Contato:
+## :books: Contato
 
-Marcos Vinicius: [Linkedin](https://www.linkedin.com/in/marcos-vinicius-080659117/).
+Marcos Vinicius: [Linkedin](https://www.linkedin.com/in/marcos-vinicius-080659117/)
